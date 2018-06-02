@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A HOC using mobx-rest & mobx to keep form states in Mobx Store",
   "main": "index.js",
-  "repository": "https://github.com/N/A",
+  "repository": "https://github.com/IranTIP/mobx-rest-form",
   "author": "IranTip",
   "license": "MIT",
   "scripts": {
